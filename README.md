@@ -18,6 +18,7 @@ Known Issues/Possible Improvements:
 - If I had more time I would love to style the checkbox properly, but due to time constraints I have left it mostly out of the box styling.
 - Styling has not been optimized for responsiveness. Only styled for desktop for now.
 - Accessibility: I did not optimize this for accessibility (mainly concerning keyboard navigation). If this was done properly I should be able to access each task item with the keyboard, enter and exist modals etc.
+- I think there is a possible bug where I am unable to filter properly (no results are returned). It happens sporadically and possibly only when I am idle on the app for a bit of time. Once I reload it works as intended.
 
 Reasons
 
